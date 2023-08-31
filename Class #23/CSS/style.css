@@ -1,0 +1,60 @@
+
+body{
+    padding: 0;
+    font-family: 'Black Ops One', cursive;
+}
+
+
+
+
+.container{
+    width: 1300px;
+    margin: 0 auto;
+    text-align: center;
+    background: teal;
+    padding: 100px;
+    position: relative;
+}
+.container h1{
+    font-size: 50px;
+    font-weight: 500;
+}
+.container p{
+    font-size: 25px;
+    font-weight: 300;
+}
+.container p span{
+    color: rgb(13, 218, 13);
+    font-size: 30px;
+    font-weight: 400;
+}
+
+.container #result {
+    font-size: 28px;
+    font-weight: 400;
+    background: white;
+    border-radius: 5px;
+    text-align: center;
+    margin-left: 50px;
+}
+.container #demo {
+    font-size: 50px;
+    font-weight: 400;
+    color: black;
+    background: white;
+    font-family: 'Black Ops One', cursive;
+    width: 70px;
+    position: absolute;
+    left: 47.4%;
+}
+
+.container button{
+    background: rgba(0, 0, 0, 0.233);
+    font-size: 30px;
+    font-weight: 500;
+    color: rgb(13, 218, 13);
+    font-family: 'Black Ops One', cursive;
+   
+    border-radius: 5px;
+    text-align: center;
+}
